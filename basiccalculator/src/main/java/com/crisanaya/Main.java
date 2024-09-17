@@ -25,7 +25,7 @@ public class Main {
         }
         return a/b;
     }
-        
+     //ADD COMMENT TO MAKE A MINOR CHANGE   
     public static void main(String[] args) {
         
         //Define a and b to make calculations.
