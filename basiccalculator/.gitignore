@@ -1,0 +1,7 @@
+#Maven directories
+target/
+
+# Eclipse/IntelliJ IDEA project files
+.classpath
+.project
+.settings/
